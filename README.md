@@ -17,13 +17,13 @@ RIVEN MUSIC为喜爱音乐的人提供一个分享自我，收获快乐的平台
 
 - 金鼎龙（项目经理、UI设计师、开发工程师、测试工程师）
   - Email：2099726689@qq.com
-  - Github：[https://github.com/dougang1026](https://github.com/dougang1026)
+  - Github：https://github.com/kimskylines/
 - 王志岗（UI设计师、开发工程师、测试工程师）
-  - Email：[673105182@qq.com](mailto:673105182@qq.com)
-  - Github：[https://github.com/jiachengyan](https://github.com/jiachengyan)
+  - Email：lianpuyanhua@163.com
+  - Github：https://github.com/wangzhigang2016
 - 敬欢（UI设计师、开发工程师、测试工程师）
-  - Email：[1551073921@qq.com](mailto:1551073921@qq.com)
-  - Github：[https://github.com/nieliangpeng](https://github.com/nieliangpeng)
+  - Email：1059726539@qq.com
+  - Github：暂无
   
 ### 项目截图
 
