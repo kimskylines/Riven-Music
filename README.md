@@ -57,3 +57,22 @@ RIVEN MUSIC为喜爱音乐的人提供一个分享自我，收获快乐的平台
 <img src="./jietu/17.歌曲界面.png" width=366 height=651 />
 <img src="./jietu/18.歌曲播放界面.png" width=338 height=686 />
 </p>
+<p>
+<img src="./jietu/19.未登录时的个人中心界面.png" width=371 height=660 />
+<img src="./jietu/20.本地音乐界面" width=366 height=651 />
+<img src="./jietu/21.最近播放界面.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/22.登录后的个人中心界面.png" width=371 height=660 />
+<img src="./jietu/23.用户的购物车页面.png" width=366 height=651 />
+<img src="./jietu/24.我的收藏界面.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/25.用户的歌单界面.png" width=371 height=660 />
+<img src="./jietu/26.收藏歌曲界面.png" width=366 height=651 />
+<img src="./jietu/27.资讯界面1.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/28.资讯界面2.png" width=371 height=660 />
+<img src="./jietu/29.资讯详情界面.png" width=366 height=651 />
+</p>
