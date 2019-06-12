@@ -16,7 +16,7 @@ RIVEN MUSIC为喜爱音乐的人提供一个分享自我，收获快乐的平台
 ### 项目成员
 
 - 金鼎龙（项目经理、UI设计师、开发工程师、测试工程师）
-  - Email：[dougang1026@foxmail.com](mailto:dougang1026@foxmail.com) 
+  - Email：2099726689@qq.com
   - Github：[https://github.com/dougang1026](https://github.com/dougang1026)
 - 王志岗（UI设计师、开发工程师、测试工程师）
   - Email：[673105182@qq.com](mailto:673105182@qq.com)
