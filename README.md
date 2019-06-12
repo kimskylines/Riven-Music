@@ -32,3 +32,28 @@ RIVEN MUSIC为喜爱音乐的人提供一个分享自我，收获快乐的平台
 <img src="./jietu/2.登录界面.png" width=366 height=651 />
 <img src="./jietu/3.主页1.png" width=338 height=686 />
 </p>
+<p>
+<img src="./jietu/4.主页2png" width=371 height=660 />
+<img src="./jietu/5.分类界面.png" width=366 height=651 />
+<img src="./jietu/6.歌单分类详情界面.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/7.电台界面1.png" width=371 height=660 />
+<img src="./jietu/8.电台界面2.png" width=366 height=651 />
+<img src="./jietu/9.排行榜界面1.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/10.排行榜界面2.png" width=371 height=660 />
+<img src="./jietu/11.歌手界面.png" width=366 height=651 />
+<img src="./jietu/12.歌手详情界面.png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/13.未登录时的侧边栏界面.png" width=371 height=660 />
+<img src="./jietu/14.登录后的侧边栏界面.png" width=366 height=651 />
+<img src="./jietu/15.搜索界面 .png" width=338 height=686 />
+</p>
+<p>
+<img src="./jietu/16.搜索关键字“风”时得出的搜索结果界面.png" width=371 height=660 />
+<img src="./jietu/17.歌曲界面.png" width=366 height=651 />
+<img src="./jietu/18.歌曲播放界面.png" width=338 height=686 />
+</p>
