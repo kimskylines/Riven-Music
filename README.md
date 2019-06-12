@@ -28,7 +28,7 @@ RIVEN MUSIC为喜爱音乐的人提供一个分享自我，收获快乐的平台
 ### 项目截图
 
 <p>
-<img src="./image/logo-欢迎页.png" width=250 height=400 />
-<img src="./image/首页.jpg" width=250 height=400 />
-<img src="./image/ta的帖子.png" width=250 height=400 />
+<img src="./jietu/1.注册界面.png" width=371 height=660 />
+<img src="./jietu/2.登录界面.png" width=366 height=651 />
+<img src="./jietu/3.主页1.png" width=338 height=686 />
 </p>
